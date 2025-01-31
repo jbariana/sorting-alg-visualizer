@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sorting-alg-visualizer", "sorting-alg-visualizer\sorting-alg-visualizer.csproj", "{35C758A4-D81D-4140-8F11-87E5C8D01190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C758A4-D81D-4140-8F11-87E5C8D01190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C758A4-D81D-4140-8F11-87E5C8D01190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C758A4-D81D-4140-8F11-87E5C8D01190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C758A4-D81D-4140-8F11-87E5C8D01190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93267110-D39D-4882-A77B-01310C46A19C}
+	EndGlobalSection
+EndGlobal
